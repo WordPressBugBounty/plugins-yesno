@@ -3,8 +3,8 @@ Contributors: kohseiworks, tnomi
 Donate link: https://kohsei-works.com/plugins
 Tags: yesno, chart, questionnaire, question, answer, q&a, diagnosis
 Requires at least: 4.4
-Tested up to: 6.5.5
-Requires PHP: 5.5
+Tested up to: 6.9
+Requires PHP: 7.0
 Stable tag: 1.0.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,9 +15,9 @@ This plugin provides the function to create a set of questions to answer with "y
 == Description ==
 
 This plugin provides the function to create a set of questions to answer with "yes / no (/or other)". <br>
-Requires PHP: 5.5<br>
+Requires PHP: 7.0<br>
 Yes/Noチャートを作れるプラグインです。<br>
-必須PHPバージョン：5.5<br>
+必須PHPバージョン：7.0<br>
 
 The guide is here. ガイドはこちらです<br>
 [日本語(ja)](https://kohsei-works.com/plugins)
